@@ -17,3 +17,6 @@ env/
 
 # Ignore the data folder
 data/
+
+# Ignore all CSV files
+*.csv
